@@ -1,4 +1,4 @@
-# AktienAnalyse
+# NuclearAnalysis
 Programm zur Analyse von Unternehmen, die im Bereich SMRs, nuclear reactors generation IV und Fusionsenergie tätig sind
 
 Ziel: 
